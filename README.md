@@ -16,4 +16,6 @@ Please note that the Dlib face detector performs poorly on challeneging dataset 
 - 3D Model (to be uploaded)
 
 ### 2D Results
-![](Images/2DResult.jpg)
+![](Images/2DResult.png)
+
+### 3D Results
