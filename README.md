@@ -1,6 +1,6 @@
 # 3D-FaceAlignment-in-the-wild
 
-The repository contains my project 3D FaceAlignemnt in the wild where we have implemented and trained the pre-trained model of paper [How far are we from solving the 2D \& 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks](https://arxiv.org/pdf/1703.07332.pdf)" on 3D menpo benchmark dataset.
+The repository contains my project 3D FaceAlignemnt in the wild where we have implemented and trained the pre-trained model of paper [How far are we from solving the 2D \& 3D Face Alignment problem? (and a dataset of 230,000 3D facial landmarks](https://arxiv.org/pdf/1703.07332.pdf) on 3D menpo benchmark dataset.
 
 ## Requirements
 
