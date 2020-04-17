@@ -4,7 +4,8 @@ The repository contains my project 3D FaceAlignemnt in the wild where we have im
 
 ## Requirements
 
-- Menpo Dataset (https://ibug.doc.ic.ac.uk/resources/1st-3d-face-tracking-wild-competition/)
+- Menpo Dataset
+Note: For Menpo dataset access you need to drop an email to contact mentioned at (https://ibug.doc.ic.ac.uk/resources/1st-3d-face-tracking-wild-competition/) 
 - PyTorch
 - OpenCV 
 - Dlib Face detector
